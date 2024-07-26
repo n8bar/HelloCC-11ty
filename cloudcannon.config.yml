@@ -1,0 +1,11 @@
+source: .
+collections_config_override: true
+collections_config:
+  pages:
+    output: true
+    path: ""
+    _enabled_editors:
+      - visual
+files:
+  - label: "Home Page"
+    path: index.md
