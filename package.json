@@ -1,0 +1,12 @@
+{
+  "name": "hello-cc-11ty",
+  "version": "1.0.0",
+  "description": "A simple Eleventy project",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
